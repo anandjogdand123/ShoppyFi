@@ -1,4 +1,4 @@
-# Techlanders_ecom
+# TShoppyFi
 e-commerce  website using python(flask framework),css,html,javascript
 
 Flask:
